@@ -16,7 +16,7 @@
 		<p> Fill this form to apply: </p>
 
 		<form name="new_applicant_form" action="registration_confirmation.php" method="post">
-			<p> First name: <input type="text" name="izina"> </p>
+			<p> First name: <input type="text" name="first_name"> </p>
 			<p> Last name:  <input type="text" name="last_name"></p>
 			<p> Gender: <br>
 				<input type="radio" id="female" name="gender" value="Female">

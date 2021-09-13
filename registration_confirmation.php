@@ -10,7 +10,7 @@ if (isset($_POST['submit'])) {
 	}
 
 	// 3. Create variables to capture information from the form
-	$first_name = $_POST['izina'];
+	$first_name = $_POST['first_name'];
 	$last_name  = $_POST['last_name'];
 	$gender     = $_POST['gender'];
 	$date_of_birth = $_POST['date_of_birth'];
